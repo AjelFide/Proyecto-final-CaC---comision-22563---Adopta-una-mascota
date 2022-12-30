@@ -1,0 +1,18 @@
+.navbar{
+    background-color:#955516;
+}
+
+.box{
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-img{
+    filter: brightness(.5);
+}
+
+#perritoportada{
+    position: absolute;
+    height: 400px;
+}
